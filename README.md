@@ -1,6 +1,6 @@
 # quizzler_application
 
-A new Flutter project.
+This a Quiz Application built using Flutter Framework.
 
 ## Getting Started
 
